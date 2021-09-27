@@ -1,0 +1,11 @@
+/*
+
+!.gitignore
+
+!TextOnly/
+TextOnly/*
+!TextOnly/template.py
+
+!TextWithImage/
+TextWithImage/*
+!TextWithImage/template.py
